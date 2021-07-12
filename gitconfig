@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = victordellafaille@gmail.com
+	name = victor della faille
